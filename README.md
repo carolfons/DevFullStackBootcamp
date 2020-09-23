@@ -6,8 +6,10 @@
 <p> Repositório criado com objetivo de auxiliar com o Bootcamp de desenvolvimento FullStack ministrado pelo IGTI </p>
 
 <h3> Progresso </h3>
- -  [ ] Módulo 1
-  - [ ] Módulo 2
-  - [ ] Módulo 3
-  - [ ] Módulo 4
-  - [ ] Módulo 5
+ <ul>
+ <li>Módulo 1</li>
+  <li>Módulo 2</li>
+  <li>Módulo 3</li>
+  <li>Módulo 4</li>
+  <li>Módulo 5</li>
+</ul>
