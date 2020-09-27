@@ -1,11 +1,16 @@
 <h1 align = "center"> DevFullStackBootcamp :computer: :wrench:</h1>
 
-<h2> Bootcamp </h2>
+<h2> :zap:Bootcamp :zap: </h2>
+![GitHub language count](https://img.shields.io/github/languages/count/carolfons/DevFullStackBootcamp)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/DevFullStackBootcamp">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/DevFullStackBootcamp">
 
-<h3> Sobre o projeto </h3>
+
+
+<h3> :speech_balloon: Sobre o projeto </h3>
 <p> Repositório criado com objetivo de auxiliar com o Bootcamp de desenvolvimento FullStack ministrado pelo IGTI </p>
 
-<h3> Progresso </h3>
+<h3> :speech_balloon: Progresso </h3>
  <ul>
  <li><strike>Módulo 1</strike></li>
   <li>Módulo 2</li>
@@ -14,7 +19,7 @@
   <li>Módulo 5</li>
 </ul>
 
-<h3>Desafios</h3>
+<h3>:speech_balloon: Desafios</h3>
 <table border = "1">
  <tr>
  <th align = "center"> <bold>Desafio</bold> </th>
