@@ -7,7 +7,7 @@
 
 <h3> Progresso </h3>
  <ul>
- <li>Módulo 1</li>
+ <li><strike>Módulo 1</strike></li>
   <li>Módulo 2</li>
   <li>Módulo 3</li>
   <li>Módulo 4</li>
