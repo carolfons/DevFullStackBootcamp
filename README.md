@@ -2,9 +2,9 @@
 
 <h2 align = "center"> :zap:Bootcamp :zap: </h2>
 
-![GitHub language count](https://img.shields.io/github/languages/count/carolfons/DevFullStackBootcamp)
+<p align = "center"><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/carolfons/DevFullStackBootcamp">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/carolfons/DevFullStackBootcamp">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/DevFullStackBootcamp">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/carolfons/DevFullStackBootcamp"></p>
 
 
 
